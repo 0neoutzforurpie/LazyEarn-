@@ -1,0 +1,6 @@
+{
+  "name": "lazyearn",
+  "description": "Revenue-sharing video ad streaming platform with uninterrupted queue autoplay, real-time yield analytics, interactive CPV multipliers, and PayPal payouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

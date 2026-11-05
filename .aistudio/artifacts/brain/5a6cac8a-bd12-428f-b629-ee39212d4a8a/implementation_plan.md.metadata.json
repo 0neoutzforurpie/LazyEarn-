@@ -1,0 +1,6 @@
+{
+  "summary": "Revised implementation plan enforcing a strict server-side revenue cap so a user's base reward plus interactive bonus never exceeds the ad's total revenue (guaranteeing a positive net margin for the website on every ad), alongside the mandatory PayPal Authenticator login gate, viewer-only earnings visibility, and the Cash Out modal with a $10.00 minimum disclaimer.",
+  "updatedAt": "2026-11-04T19:03:26.928946133Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
